@@ -11,3 +11,7 @@ U
 %app/controllers/recipes_controller.rb,1/c/1c21dba956b121371ae311001273eb847a84cedf
 <
 db/schema.rb,2/c/2cda0c6171fa7d04989507a1dd112e34c40df46d
+7
+Gemfile,d/e/de3150c01c3a946a6168173c4116741379fe3579
+K
+config/initializers/cors.rb,1/0/109c73e4c63ca6f27117eb553180df33f54afc89
